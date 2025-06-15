@@ -14,7 +14,7 @@ namespace BalPhone.Forms
 {
     public partial class FormDftrIP : Form
     {
-        string connStr = "Host=localhost;Username=postgres;Password=021204;Database=tirent";
+        string connStr = "Host=localhost;Username=postgres;Password=021204;Database=BalPhone";
         NpgsqlConnection conn;
 
         int selectedId = -1;

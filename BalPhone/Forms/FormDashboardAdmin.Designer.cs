@@ -34,6 +34,7 @@
             panelSidebar.Name = "panelSidebar";
             panelSidebar.Size = new Size(359, 512);
             panelSidebar.TabIndex = 0;
+            panelSidebar.Paint += panelSidebar_Paint;
             // 
             // lblTitle
             // 

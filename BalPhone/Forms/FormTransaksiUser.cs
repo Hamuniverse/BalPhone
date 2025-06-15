@@ -15,7 +15,7 @@ namespace BalPhone.Forms
 {
     public partial class FormTransaksiUser : Form
     {
-        string connStr = "Host=localhost;Username=postgres;Password=021204;Database=tirent";
+        string connStr = "Host=localhost;Username=postgres;Password=021204;Database=BalPhone";
         NpgsqlConnection conn;
 
         public FormTransaksiUser()

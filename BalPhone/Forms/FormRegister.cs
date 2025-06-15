@@ -13,7 +13,7 @@ namespace BalPhone.Forms
 {
     public partial class FormRegister : Form
     {
-        string connStr = "Host=localhost;Username=postgres;Password=021204;Database=tirent";
+        string connStr = "Host=localhost;Username=postgres;Password=021204;Database=BalPhone";
 
         public FormRegister()
         {

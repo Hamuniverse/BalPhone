@@ -47,5 +47,10 @@ namespace BalPhone.Forms
                 login.Show();
             }
         }
+
+        private void panelSidebar_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

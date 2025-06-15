@@ -15,7 +15,7 @@ namespace BalPhone.Forms
 {
     public partial class FormRiwayatTransaksi : Form
     {
-        string connStr = "Host=localhost;Username=postgres;Password=021204;Database=tirent";
+        string connStr = "Host=localhost;Username=postgres;Password=021204;Database=BalPhone";
 
         public FormRiwayatTransaksi()
         {
